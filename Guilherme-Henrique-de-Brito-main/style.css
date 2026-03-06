@@ -1,0 +1,11 @@
+body {
+    text-align: left;
+    background-color: #1a1919;
+    color: #000000;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: linear-gradient(to bottom, #ffffff, #390f46);
+    background-attachment: fixed;
+
+}
