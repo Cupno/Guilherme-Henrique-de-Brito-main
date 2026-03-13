@@ -8,3 +8,15 @@ body {
     background-image: linear-gradient(to bottom, #ffffff, #3834fd);
     background-attachment: scroll;
 }
+.cor-letra {
+    color: #b11c8b;
+    font-weight: bold;
+}
+.cor-lolbuj {
+    color: #eec878;
+    font-weight: bold;
+}
+.cor-TROPA {
+    color: #1a297e;
+    font-weight: bold;
+}
